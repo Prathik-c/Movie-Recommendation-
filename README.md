@@ -64,7 +64,7 @@ Higher cosine value → more similar movies.
 
 Defined a function to fetch the top 5 most similar movies for any given title.
 
-### 🧰 Technologies Used
+### Technologies Used
 
 | **Category** | **Tools / Libraries** |
 |---------------|------------------------|
