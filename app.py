@@ -36,7 +36,7 @@ def recommend(movie):
         return [], []
 
 
-st.title("🎬 Movie Recommender System")
+st.title(" Movie Recommender System")
 st.caption("Get 5 similar movies using Machine Learning and TMDB API")
 
 movies_dict = pickle.load(open('movie_dict.pkl','rb'))
