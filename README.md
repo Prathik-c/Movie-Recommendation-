@@ -1,12 +1,12 @@
-🎬 TMDB Movie Recommender System
-📘 Project Overview
+# TMDB Movie Recommender System
+## Project Overview
 
 The TMDB Movie Recommender System is a content-based machine learning project that suggests movies similar to a user’s favorite ones.
 It uses movie metadata such as genres, keywords, cast, and crew from the TMDB 5000 Movies Dataset available on Kaggle.
 
 By analyzing the textual and categorical features of movies, the system calculates similarity scores between films and recommends the most relevant ones.
 
-🎯 Objective
+# Objective
 
 To build a system that can:
 
@@ -16,7 +16,7 @@ Use metadata (not ratings) to find movie similarity.
 
 Demonstrate the use of Natural Language Processing (NLP) and cosine similarity in recommender systems.
 
-🧩 Dataset Information
+# Dataset Information
 
 Dataset Source: TMDB 5000 Movie Dataset on Kaggle
 
@@ -35,7 +35,7 @@ keywords	Descriptive tags about the movie
 cast	Main actors
 crew	Includes director and other crew members
 popularity	Popularity score of the movie
-🧠 Methodology
+# Methodology
 1. Data Preprocessing
 
 Merged movies and credits datasets on the title column.
@@ -64,7 +64,7 @@ Higher cosine value → more similar movies.
 
 Defined a function to fetch the top 5 most similar movies for any given title.
 
-⚙️ Technologies Used
+# Technologies Used
 Category	Tools / Libraries
 Language	Python
 Libraries	pandas, numpy, scikit-learn, ast
