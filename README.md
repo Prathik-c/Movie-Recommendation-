@@ -64,11 +64,14 @@ Higher cosine value → more similar movies.
 
 Defined a function to fetch the top 5 most similar movies for any given title.
 
-# Technologies Used
-Category	Tools / Libraries
-Language	Python
-Libraries	pandas, numpy, scikit-learn, ast
-Visualization	matplotlib, seaborn
-Text Processing	CountVectorizer (from sklearn.feature_extraction.text)
-Similarity Metric	cosine_similarity
-Environment	Jupyter Notebook / Google Colab
+### 🧰 Technologies Used
+
+| **Category** | **Tools / Libraries** |
+|---------------|------------------------|
+| **Language** | Python |
+| **Libraries** | pandas, numpy, scikit-learn, ast |
+| **Visualization** | matplotlib, seaborn |
+| **Text Processing** | CountVectorizer (from `sklearn.feature_extraction.text`) |
+| **Similarity Metric** | cosine_similarity |
+| **Environment** | Jupyter Notebook / Google Colab |
+
