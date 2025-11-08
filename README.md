@@ -73,5 +73,5 @@ Defined a function to fetch the top 5 most similar movies for any given title.
 | **Visualization** | matplotlib, seaborn |
 | **Text Processing** | CountVectorizer (from `sklearn.feature_extraction.text`) |
 | **Similarity Metric** | cosine_similarity |
-| **Environment** | Jupyter Notebook / Google Colab |
+| **Environment** | Jupyter Notebook  |
 
